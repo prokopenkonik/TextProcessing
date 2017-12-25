@@ -1,0 +1,5 @@
+The content of the package comment file is written in HTML with one exception.
+The documentation comment should not include the comment separators /** and */ or leading asterisks.
+When writing the comment, make the first sentence a summary about the package, and do not put a title or any other text between the <body> tag and the first sentence.
+You can include package tags. All block tags must appear after the main description.
+If you add an @see tag in a package comment file, then it must have a fully qualified name.
